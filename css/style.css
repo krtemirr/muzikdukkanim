@@ -1,0 +1,35 @@
+#genelBaslik {
+    text-align: center;
+    color: red;
+}
+
+.menu{
+    list-style: none;
+    display: block;
+    text-align: center;
+}
+
+.menu li{
+    display: inline;
+    margin: 10px;
+    position: relative;
+}
+
+.anaListeOrtalama {
+    list-style-position: inside;
+}
+
+.resimBoyut {
+    width: 350px;
+    height: 350px;
+}
+
+.urunOrtalama {
+    display: block;
+    text-align: center;
+}
+
+.urunOrtalama li {
+    margin: 10px;
+    position: relative;
+}
